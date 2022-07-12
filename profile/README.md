@@ -2,6 +2,12 @@
 
 **Community-first PFP project:**
 
+- 🙋‍♀️ A short introduction - meta, token, and nft project!
+- 🌈 Contribution guidelines - enjoy the journey.
+- 👩‍💻 Useful resources - nothing great ever happens overnight, it will take a while to get an established value!
+- 🍿 Fun facts - one of the world's biggest exporters of raspberries.
+- 🧙 Grab your nft!
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -16,16 +22,4 @@
 [2]: https://github.com/izzzy-xyz
 [3]: https://www.linkedin.com/company/izzzy/
 [4]: https://twitter.com/izzzy_xyz
-
-- 🙋‍♀️ A short introduction - meta, token, and nft project!
-- 🌈 Contribution guidelines - enjoy the journey.
-- 👩‍💻 Useful resources - nothing great ever happens overnight, it will take a while to get an established value!
-- 🍿 Fun facts - one of the world's biggest exporters of raspberries.
-- 🧙 Grab your nft!
-
-[![alt text][5.1]][5]
-
-[5.1]: https://foundico.com/widget/?p=35543&f=h (foundico)
-
-[5]: https://foundico.com/ico/izzzy.html
 
