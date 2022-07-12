@@ -15,3 +15,5 @@ Community-first PFP project on Ethereum, and Polygon blockchain
 [2]: https://github.com/izzzy-xyz
 [3]: https://www.linkedin.com/company/izzzy/
 [4]: https://twitter.com/izzzy_xyz
+
+IZZZY is NFT a community-first PFP project on Ethereum, backed by strong and ownable branding, bold storytelling, innovative long-term utility token on Polygon, and a passionate community of a free-thinking word. IZZZY's have fallen under the reverie of an Ethereum Metaverse, on the ultimate community rewards road.
