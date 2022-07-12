@@ -18,7 +18,7 @@ Community-first PFP project on Ethereum, and Polygon blockchain
 
 [![alt text][5.1]][5]
 
-[5.1]: https://foundico.com/widget/?p=35543&f=s (foundico)
+[5.1]: https://foundico.com/widget/?p=35543&f=h (foundico)
 
 [5]: https://foundico.com/ico/izzzy.html
 
