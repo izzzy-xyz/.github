@@ -20,7 +20,7 @@
 [3.1]: https://i.imgur.com/2ZtkugE.png (linkedin)
 [4.1]: https://i.imgur.com/9HQg17g.png (twitter)
 [5.1]: https://i.imgur.com/hp42vEA.png (foundico)
-[6.1]: https://i.imgur.com/WkmeAME.png (etherscan)
+[6.1]: https://i.imgur.com/E2ceOv1.png (etherscan)
 
 [1]: https://discord.gg/RMka34MTEC
 [2]: https://github.com/izzzy-xyz
