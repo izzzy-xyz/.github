@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Community-first PFP project:**
+**Community-first PFP project:** 
 
 - 🙋‍♀️ A short introduction - meta, token, and nft project!
 - 🌈 Contribution guidelines - enjoy the journey.
